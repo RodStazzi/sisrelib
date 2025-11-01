@@ -6,7 +6,7 @@ Sistema web de gestión de préstamos de libros desarrollado con arquitectura **
 
 ## 🎥 Demostración en Video
 
-[![Ver Demo en YouTube](https://img.shields.io/badge/YouTube-Ver_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/Tx30C0RQuv0)
+[![Ver Desarrollo en YouTube](https://img.shields.io/badge/YouTube-Ver_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/Tx30C0RQuv0)
 
 Mira el video completo de la aplicación en funcionamiento: **[Ver en YouTube](https://youtu.be/Tx30C0RQuv0)**
 
