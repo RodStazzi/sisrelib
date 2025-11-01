@@ -120,33 +120,6 @@ Mira el video completo de la aplicación en funcionamiento: **[Ver en YouTube](h
 
 ---
 
-## 📂 Estructura del Proyecto
-
-```
-booktracker-pro/
-├── frontend/
-│   └── index.html              # Aplicación web SPA
-│
-├── lambdas/
-│   ├── java/                   # Lambdas CRUD
-│   │   ├── BookLambdaHandler.java
-│   │   ├── GetBookLambdaHandler.java
-│   │   ├── GetIdBookLambdaHandler.java
-│   │   ├── UpdateBookLambdaHandler.java
-│   │   └── DeleteIdBookLambdaHandler.java
-│   │
-│   └── nodejs/                 # Lambdas de notificación
-│       ├── authorizerLambda.js
-│       └── vencidosBookLambda.js
-│
-├── diagrams/
-│   └── architecture.drawio     # Diagrama de arquitectura
-│
-└── README.md
-```
-
----
-
 ## 🔧 Configuración e Instalación
 
 ### Prerrequisitos
@@ -367,7 +340,7 @@ Para una biblioteca pequeña (100 préstamos/mes):
 
 ---
 
-## 🚀 Próximas Mejoras
+## 🚀 Posibles Integraciones
 
 - [ ] Integración con WhatsApp Business API
 - [ ] Dashboard administrativo avanzado
@@ -400,17 +373,8 @@ Este proyecto está bajo licencia MIT. Ver archivo `LICENSE` para más detalles.
 
 ## 📧 Contacto
 
-**Desarrollador**: [Tu Nombre]  
-**Email**: [tu-email@ejemplo.com]  
-**LinkedIn**: [Tu perfil de LinkedIn]
-
----
-
-## ⭐ Agradecimientos
-
-- AWS por la infraestructura serverless
-- Comunidad de desarrolladores por el feedback
-- Bibliotecas de código abierto utilizadas
+**Desarrollador**: [Rodolfo Stazzi S]  
+**LinkedIn**: [https://www.linkedin.com/in/rodolfostazzi/]
 
 ---
 
@@ -418,6 +382,6 @@ Este proyecto está bajo licencia MIT. Ver archivo `LICENSE` para más detalles.
 
 **¿Te gustó este proyecto? ¡Dale una ⭐ en GitHub!**
 
-[![GitHub stars](https://img.shields.io/github/stars/tu-usuario/booktracker-pro?style=social)](https://github.com/tu-usuario/booktracker-pro)
+[![GitHub stars](https://img.shields.io/github/stars/tu-usuario/booktracker-pro?style=social)](https://github.com/RodStazzi/sisrelib)
 
 </div>
