@@ -1,4 +1,4 @@
-# 📚 BookTracker Pro - Sistema de Gestión de Préstamos de Libros
+# 📚 SISRELIB, BookTracker Pro - Sistema de Gestión de Préstamos de Libros
 
 Sistema web de gestión de préstamos de libros desarrollado con arquitectura **serverless en AWS**. Permite a bibliotecarios o administradores registrar, editar y hacer seguimiento de libros prestados, con notificaciones automáticas por correo electrónico para recordatorios de devolución.
 
